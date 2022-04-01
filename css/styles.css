@@ -1,10 +1,10 @@
 #title {
-  background-color: #ff4c68;
+  background-color: #ef8172;
 }
-
 h1 {
-  padding: 2.5rem 0;
-  font-size: 3rem;
+  /* padding: 2.5rem 0; */
+  padding-top: 1.5rem;
+  font-size: 3.5rem;
   line-height: 1.5;
   font-family: 'Ubuntu', sans-serif;
   color: white;
@@ -27,7 +27,7 @@ h1 {
 }
 
 body {
-  font-family: 'Montserrat';
+  font-family: 'ubuntu';
 }
 
 .navbar {
@@ -50,4 +50,63 @@ body {
 .navbar-brand {
   font-family: 'ubuntu';
   font-size: 2rem;
+}
+
+
+#features {
+  padding: 8% 15%;
+  text-align: center;
+  background-color: #F7F5F2;
+
+}
+.feature-box {
+  /* font-weight: ; */
+  font-family: 'ubuntu';
+
+}
+.feature-cont {
+    font-family: 'ubuntu';
+    color: grey;
+}
+
+.icon {
+  color: #FD5D5D;
+  padding-bottom: 1.25rem;
+}
+
+.icon:hover {
+  color: grey;
+}
+
+#testimonials {
+  color: white;
+  background-color: #ef8172;
+
+  text-align: center;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+h2 {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 20%;
+  border-radius: 100%;
+  padding: 2rem;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 15px 20px;
 }
