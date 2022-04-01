@@ -1,2 +1,1 @@
-# printspot
- e-commerce
+TinDog Starting Files
